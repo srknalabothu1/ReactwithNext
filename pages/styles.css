@@ -1,0 +1,6 @@
+.profileContainer{
+    /* display: "flex", flexDirection: "column", marginTop: "40px"  */
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}

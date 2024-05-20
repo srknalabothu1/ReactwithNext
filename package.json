@@ -1,0 +1,26 @@
+{
+  "name": "reactwithnext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev --turbo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srknalabothu1/ReactwithNext.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srknalabothu1/ReactwithNext/issues"
+  },
+  "homepage": "https://github.com/srknalabothu1/ReactwithNext#readme",
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-tweet": "^3.2.1"
+  }
+}
