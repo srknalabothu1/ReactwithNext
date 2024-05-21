@@ -8,7 +8,7 @@ export default function Page() {
                 <div>
                     <input type="search" placeholder="type here..." />
                 </div>
-                <div style={{position:"absolute", marginLeft:"8rem"}}>X</div>
+                {/* <div style={{position:"absolute", marginLeft:"8rem"}}>X</div> */}
             </div>
         </div>
     )
